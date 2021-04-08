@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T10:36:17.466Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="IimS2mv8hdDdBty-7MOV" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T10:40:44.089Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="6pYG2FifvhPn4pgjM_hq" version="14.5.6" type="github">
   <diagram id="0MzkFPIx0pl2HgwgCPpb" name="Page-1">
     <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="396.81" y="519.99" width="29.5" height="28.01" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-2" value="HPA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="526" width="40" height="20" as="geometry" />
+          <mxGeometry x="422" y="526" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Frontend-Prod&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="408.75" y="391.5" width="70" height="20" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="687.5" y="319.01" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-13" value="Cluster Name: cilist.ical.host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405.62" y="268" width="80" height="20" as="geometry" />
+          <mxGeometry x="405.62" y="266" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pbbzn3D4epm2HjTNRnsw-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://grafana.com/static/img/about/grafana_logo_swirl_fullcolor.jpg;" parent="1" vertex="1">
           <mxGeometry x="752" y="374.64" width="56" height="60.72" as="geometry" />
@@ -104,10 +104,19 @@
           <mxGeometry x="363.16" y="328" width="123.69" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="639.25" y="480" width="61.5" height="61.5" as="geometry" />
+          <mxGeometry x="639.25" y="475" width="61.5" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-18" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="1">
           <mxGeometry x="868" y="455" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="q-ei57e0AKxLnvB_2TMc-19" value="Master: T2. Large" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="543.1500000000001" y="303.25" width="123.69" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q-ei57e0AKxLnvB_2TMc-20" value="logging.ical.host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q-ei57e0AKxLnvB_2TMc-21" value="monitoring.ical.host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="761" y="530" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
