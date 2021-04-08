@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T11:07:47.420Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qmsvfW31GYgDU_WQWLIT" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T11:09:27.043Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="1m0gKt_n25ZyOTABYzx9" version="14.5.6" type="github">
   <diagram id="0MzkFPIx0pl2HgwgCPpb" name="Page-1">
     <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="159.5" width="720" height="460" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#9CD7FF;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250.63" width="560" height="317.75" as="geometry" />
+          <mxGeometry x="340" y="253.63" width="560" height="317.75" as="geometry" />
         </mxCell>
         <mxCell id="Pbbzn3D4epm2HjTNRnsw-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" parent="1" vertex="1">
           <mxGeometry x="910" y="339.01000000000005" width="50" height="50" as="geometry" />
@@ -59,16 +59,16 @@
           <mxGeometry x="405" y="455" width="80.62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.auto_scaling;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="798" y="304.76" width="40" height="38.49" as="geometry" />
+          <mxGeometry x="828.42" y="303.25" width="40" height="38.49" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-10" value="Cluster Autoscaler&lt;br&gt;Min 3 | Max 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="687.5" y="319.01" width="115" height="20" as="geometry" />
+          <mxGeometry x="718.11" y="319.01" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-13" value="Cluster Name: cilist.ical.host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405.62" y="266" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q-ei57e0AKxLnvB_2TMc-14" value="Nodes: T2. Medium" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="363.16" y="328" width="123.69" height="20" as="geometry" />
+        <mxCell id="q-ei57e0AKxLnvB_2TMc-14" value="Namescape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340.00000000000006" y="328" width="123.69" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-18" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" vertex="1" parent="1">
           <mxGeometry x="910" y="455" width="54" height="54" as="geometry" />
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="Pbbzn3D4epm2HjTNRnsw-21" value="Logging" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="666.42" y="348" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q-ei57e0AKxLnvB_2TMc-39" value="Nodes: T2. Medium" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="709.4200000000001" y="299.01" width="123.69" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
