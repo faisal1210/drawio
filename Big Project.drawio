@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T06:51:41.424Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="LUiA5UOLg8-th_gxvkkK" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T06:53:41.903Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EaGhcsk7I2ee0rHhwXiS" version="14.5.6" type="github">
   <diagram id="0MzkFPIx0pl2HgwgCPpb" name="Page-1">
     <mxGraphModel dx="1304" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="486.0000000000001" y="453.25" width="123.69" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-23" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="311.63000000000005" y="500" width="116.84" height="200" as="geometry" />
+          <mxGeometry x="314.63000000000005" y="498" width="116.84" height="200" as="geometry" />
         </mxCell>
         <mxCell id="q-ei57e0AKxLnvB_2TMc-29" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="439.85" y="500" width="120.15" height="200" as="geometry" />
@@ -229,7 +229,7 @@
           <mxGeometry x="704.18" y="126" width="65.96" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-EcW5UsNzxtMS6qfP_N1-35" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="675.3100000000002" y="190" width="123.69" height="20" as="geometry" />
+          <mxGeometry x="679.3100000000002" y="190" width="123.69" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-EcW5UsNzxtMS6qfP_N1-36" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="517.85" y="133.5" width="68" height="46" as="geometry" />
@@ -247,10 +247,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-EcW5UsNzxtMS6qfP_N1-40" value="frontend.ical.host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="359.96000000000004" y="671" width="40" height="20" as="geometry" />
+          <mxGeometry x="357.96000000000004" y="673" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-EcW5UsNzxtMS6qfP_N1-41" value="frontend-dev.ical.host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="431.47" y="671" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-EcW5UsNzxtMS6qfP_N1-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Region Singapore (ap-southeast-1)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="697" y="212" width="300.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
